@@ -17,7 +17,6 @@ public class StatisticsServiceTest {
     }
 
     @Test
-
     void findNextMax() {
         StatisticsService service = new StatisticsService();
 
